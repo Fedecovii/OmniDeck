@@ -25,9 +25,9 @@ AI Hub is an evolving project, with new categories, features, and customization 
 
 ## Status
 
-Alpha — Under Development
-
-The project is currently in the alpha stage. Features, interface, and organization are still being developed and improved.
+Beta — Under Development
+Alpha — Finished
+The project is currently in the BETA stage. Features, interface, and organization are still being developed and improved.
 
 ## Status Photo
 <img width="1006" height="712" alt="Cattura" src="https://github.com/user-attachments/assets/f71bc8c0-cd00-4f32-9eb3-2f2f68b5efc4" />
