@@ -11,6 +11,7 @@ Organize your applications and web services in a single, clean, and customizable
 
 - AI Tools: Organize your favorite artificial intelligence tools.
 - Graphic Tools: Manage applications for graphic design, video editing, and digital design.
+- More Themed Sections: mockup sites, emulator, tool and more.
 - Custom Shortcuts: Add websites and desktop applications using links or executable file paths.
 - Personalization: Create and organize your own tabs according to your needs.
 - Custom Icons: Customize your tools with your own icons.
@@ -28,6 +29,13 @@ Alpha — Under Development
 
 The project is currently in the alpha stage. Features, interface, and organization are still being developed and improved.
 
-<img width="963" height="622" alt="Cattura" src="https://github.com/user-attachments/assets/4f149263-e9de-491c-8f59-028b17cf20b4" />
+## Status Photo
+<img width="1006" height="712" alt="Cattura" src="https://github.com/user-attachments/assets/f71bc8c0-cd00-4f32-9eb3-2f2f68b5efc4" />
+<img width="1005" height="714" alt="Cattura2" src="https://github.com/user-attachments/assets/f617782b-7b33-4ee6-bc82-d01daafa2773" />
+<img width="1009" height="712" alt="Cattura1" src="https://github.com/user-attachments/assets/5beed81c-69a2-4a2e-99f1-50e5ee3de3df" />
+*New languages and themes (including custom colors and visual styles such as Y2K and Frutiger Aero) are planned for future releases.* 
 
+## Photo Alpha version (only AI)
+<img width="963" height="622" alt="Cattura" src="https://github.com/user-attachments/assets/4f149263-e9de-491c-8f59-028b17cf20b4" />
 <img width="964" height="623" alt="Cattura1" src="https://github.com/user-attachments/assets/1c8fd8fd-405b-44e2-b425-a401e7b8042f" />
+*Ideal for users who only need the AI section.* 
