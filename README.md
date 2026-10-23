@@ -31,8 +31,9 @@ The project is currently in the alpha stage. Features, interface, and organizati
 
 ## Status Photo
 <img width="1006" height="712" alt="Cattura" src="https://github.com/user-attachments/assets/f71bc8c0-cd00-4f32-9eb3-2f2f68b5efc4" />
+<img width="1009" height="712" alt="Cattura1" src="https://github.com/user-attachments/assets/b95b99a0-af36-4228-a011-d06f7eb71c12" />
 <img width="1005" height="714" alt="Cattura2" src="https://github.com/user-attachments/assets/f617782b-7b33-4ee6-bc82-d01daafa2773" />
-<img width="1009" height="712" alt="Cattura1" src="https://github.com/user-attachments/assets/5beed81c-69a2-4a2e-99f1-50e5ee3de3df" />
+
 *New languages and themes (including custom colors and visual styles such as Y2K and Frutiger Aero) are planned for future releases.* 
 
 ## Photo Alpha version (only AI)
