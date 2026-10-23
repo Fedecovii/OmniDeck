@@ -3,7 +3,7 @@ OmniDeck is a customizable desktop workspace that centralizes AI tools, graphic 
 
 **One hub. All your tools.**
 
-AI Hub is a desktop application designed to centralize and simplify access to the tools used in digital work.
+OmniDeck is a desktop application designed to centralize and simplify access to the tools used in digital work.
 
 Organize your applications and web services in a single, clean, and customizable interface, reducing clutter and making your workflow faster and more efficient.
 
@@ -25,9 +25,10 @@ AI Hub is an evolving project, with new categories, features, and customization 
 
 ## Status
 
-Beta — Under Development
-Alpha — Finished
-The project is currently in the BETA stage. Features, interface, and organization are still being developed and improved.
+*Beta* — Under Development
+*Alpha* — Finished
+
+*The project is currently in the BETA stage. Features, interface, and organization are still being developed and improved.*
 
 ## Status Photo
 <img width="1006" height="712" alt="Cattura" src="https://github.com/user-attachments/assets/f71bc8c0-cd00-4f32-9eb3-2f2f68b5efc4" />
